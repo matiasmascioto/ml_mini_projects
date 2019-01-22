@@ -12,8 +12,8 @@ Images from [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNet
 
 
 ## Data
-*  */data/raw/: Raw images, grouped in folders by label.
-* */data/preprocessed/: Preprocessed images, grouped in folders by label
+*  */data/raw/*: Raw images, grouped in folders by label.
+*  */data/preprocessed/*: Preprocessed images, grouped in folders by label
 
 
 ## Sources
