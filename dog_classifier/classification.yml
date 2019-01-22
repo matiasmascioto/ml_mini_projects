@@ -1,0 +1,4 @@
+input:
+    folder: "/data/preprocessed"
+    extension: ".png"
+ 

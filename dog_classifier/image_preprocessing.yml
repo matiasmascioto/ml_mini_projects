@@ -1,0 +1,11 @@
+input:
+    folder: "/data/raw"
+    extension: ".jpg"
+    
+preprocessing:
+    height: 220
+    width: 220
+    
+output:
+    folder: "/data/preprocessed"
+    extension: ".png"
