@@ -3,8 +3,8 @@
 This project predicts the players *value* based on [*FIFA 18 dataset*](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset).
 
 ## Project files
-*  *fifa_18_data_exploration_cleaning.ipynb*: Data exploration and cleaning
-*  *fifa_18_data_modeling.yml*: Data modeling
+*  *data_exploration_cleaning.ipynb*: Data exploration and cleaning
+*  *data_modeling.yml*: Data modeling
 
 
 ## Data
