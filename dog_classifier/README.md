@@ -19,3 +19,4 @@ Images from [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNet
 ## Sources
   * [BiSeNet-Implementation](https://github.com/Blaizzy/BiSeNet-Implementation)
   * [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+  * [Image Augmentation Examples in Python](https://towardsdatascience.com/image-augmentation-examples-in-python-d552c26f2873)
