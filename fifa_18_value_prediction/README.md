@@ -3,6 +3,7 @@
 This project predicts the players *value* based on [*FIFA 18 dataset*](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset).
 
 For example, *Lionel Messi* FIFA attributes:
+
 ![Lionel Messi](images/lionel_messi.jpg?raw=true "Lionel Messi")
 
 ## Project files
