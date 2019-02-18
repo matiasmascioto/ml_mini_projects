@@ -2,6 +2,9 @@
 
 This project predicts the players *value* based on [*FIFA 18 dataset*](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset).
 
+For example, *Lionel Messi* FIFA attributes:
+![Lionel Messi](images/lionel_messi.jpg?raw=true"Lionel Messi")
+
 ## Project files
 *  *data_exploration_cleaning.ipynb*: Data exploration and cleaning
 *  *data_modeling.yml*: Data modeling
@@ -13,9 +16,8 @@ This project predicts the players *value* based on [*FIFA 18 dataset*](https://w
 *  */data/output/predictions.csv*: Model predictions
 
 
-
 ## Sources
   * [FIFA 18 Complete Player Dataset (Kaggle)](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
-  * [Association football positions](https://en.wikipedia.org/wiki/Association_football_positions)
-  * [Player Wage Prediction (Kaggle)](https://www.kaggle.com/stahamtan/player-wage-prediction)
   * [Fifa 18 Transfer Value-Wage Model (Kaggle)](https://www.kaggle.com/fournierp/fifa-18-transfer-value-wage-model)
+  * [Player Wage Prediction (Kaggle)](https://www.kaggle.com/stahamtan/player-wage-prediction)
+  * [SoFIFA.com](https://sofifa.com/)
