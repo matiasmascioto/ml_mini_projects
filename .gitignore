@@ -1,3 +1,6 @@
+# Data folders
+santander_transaction_prediction_kaggle/data/raw/
+
 # PyCharm project files
 .idea/
 
